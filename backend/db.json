@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "name": "Geladeira Consul Prata",
+      "id": 3
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.99",
+      "id": 4
+    }
+  ]
+}
