@@ -1,0 +1,9 @@
+npm start -> roda o servidor do frontend
+
+ng g c components/product/product-create -> cria o componente (html, css, ts) product-create na pasta components/product
+
+ng g d directives/red -> cria a diretiva red.directive.ts na pasta directives
+
+npm i -g @angular/cli -> instala globalmente o cli do angular
+
+ng new frontend --minimal -> cria o projeto frontend minimamlista (html, css, ts, sem testes e etc)
