@@ -4,6 +4,8 @@ ng g c components/product/product-create -> cria o componente (html, css, ts) pr
 
 ng g d directives/red -> cria a diretiva red.directive.ts na pasta directives
 
+ng g s components/product/product -> criou o product.service na pasta components/product
+
 npm i -g @angular/cli -> instala globalmente o cli do angular
 
 ng new frontend --minimal -> cria o projeto frontend minimamlista (html, css, ts, sem testes e etc)
